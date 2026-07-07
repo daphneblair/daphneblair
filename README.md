@@ -26,4 +26,5 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** (SESI SENAI), construin
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/daphneblair)
-📧 dhenyffergabriele@gmail.com
+
+link:linkedin.com/in/daphneblair
