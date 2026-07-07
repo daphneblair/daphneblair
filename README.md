@@ -1,4 +1,4 @@
-# Oi, eu sou a Dhenyffer Gabriele, também conhecida como Daphne Blair 👋
+# Olá, eu sou a Dhenyffer Gabriele, também conhecida como Daphne Blair 👋
 
 Estudante de **Técnico em Desenvolvimento de Sistemas** (SESI SENAI), construindo minha base em lógica de programação, desenvolvimento e segurança da informação.
 
